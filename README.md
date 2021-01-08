@@ -10,8 +10,11 @@ P (Ci|x) = p(x|Ci) ∗ P (Ci)/p(x)
 where,
 P(Ci—x) : Posterior Probability, the conditional probability that is assigned
 after the relevant evidence or background is taken into account
+
 p(x—Ci) : Likelihood, it is about an infinite set of possible probabilities,
 given an outcome
+
 P(Ci) : Prior, the probability an event will happen before you taken any new
 evidence into account.
+
 p(x) : Evidence
